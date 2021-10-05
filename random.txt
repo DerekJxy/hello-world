@@ -1,3 +1,4 @@
 This a txt file for checking working well with git! 
 What am I gonna do?
 I have no idea what is it...
+I'm adding a new line in here.
