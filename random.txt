@@ -1,0 +1,1 @@
+This a txt file for checking working well with git!
